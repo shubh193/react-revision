@@ -2,3 +2,11 @@
 - hello world using js
 - hello using react
 - nested div
+- /\* example
+- <div id="parent">
+-      <div id="child">
+-           <h1>first heading</h1>
+-           <h1>2nd heading</h1>
+-       </div>
+- </div>
+- \*/
