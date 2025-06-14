@@ -18,4 +18,3 @@ root.appendChild(heading); -->
 - package.json created after above cmd run
 - install bundler parcel -> npm i -D parcel
 - package-lock.json and node_modules file created after abvoe cmd run
--
